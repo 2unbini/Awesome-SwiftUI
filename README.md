@@ -19,18 +19,27 @@
 
 ### 📄 Awesome-Subject
 
-[Day00](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day00/Day00.pdf)
-[Day01](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day01/Day01.pdf)
-[Day02](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day02/Day02.pdf)
-[Day03](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day03/Day03.pdf)
-[Day04](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day04/Day04.pdf)
-[Day05](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day05/Day05.pdf)
-[Day06](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day06/Day06.pdf)
-[Rush00](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Rush00/Rush00.pdf)
+[💡Day00](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day00/Day00.pdf)
+
+[💡Day01](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day01/Day01.pdf)
+
+[💡Day02](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day02/Day02.pdf)
+
+[💡Day03](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day03/Day03.pdf)
+
+[💡Day04](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day04/Day04.pdf)
+
+[💡Day05](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day05/Day05.pdf)
+
+[💡Day06](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Day06/Day06.pdf)
+
+[⁉️Rush00](https://github.com/2unbini/Awesome-SwiftUI/blob/main/Rush00/Rush00.pdf)
 
 
 ### 🦹 Awesome-contributor
 
-[ekwon](https://github.com/2unbini)
-[sun-kim](https://github.com/skkimeo)
-[tekim](https://github.com/tekim-526)
+[🤩ekwon](https://github.com/2unbini)
+
+[🥰sun-kim](https://github.com/skkimeo)
+
+[😎tekim](https://github.com/tekim-526)
